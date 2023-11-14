@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1">1. The \'lateinit\' keyword is used for declaring what kind of variable?</string>
+    <string name="question1_option1">Constants</string>
+    <string name="question1_option2">Lazy</string>
+    <string name="question1_option3">Late-initialized</string>
+    <string name="question1_option4">Nullable</string>
+    <string name="question1_correct_answer">Late-initialized</string>
+    <string name="question2">2. In Kotlin, a function defined inside another function is called a ________ function</string>
+    <string name="question2_option1">Nested</string>
+    <string name="question2_option2">Global</string>
+    <string name="question2_option3">Local</string>
+    <string name="question2_option4">Inherited</string>
+    <string name="question2_correct_answer">Nested</string>
+</resources>
